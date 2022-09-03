@@ -1,0 +1,36 @@
+*{
+	margin:0;
+	padding:0;
+}
+.header{
+	//background:#eea47fff;
+	background:#1a283d;
+}
+.off a{
+	color:black;
+}
+.social-list{
+	list-style:none;
+}
+.social-list li{
+	float:left;	
+}
+.social-list a{
+	color:white;
+}
+.social-list-2{
+	list-style:none;
+	float:right;
+	
+}
+.social-list-2 a{
+	color:white;
+}
+.social-list-2 li{
+	float:left;
+	
+}
+.content_bg{
+	background: url("../images/ttibanner.jpg");
+}
+	
